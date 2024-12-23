@@ -1,2 +1,1 @@
 # Django-Newspaper
-# Django-Newspaper
