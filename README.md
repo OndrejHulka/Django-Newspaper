@@ -1,7 +1,3 @@
-Here’s a sample README comment for your full-stack Django blog application:
-
----
-
 # Blog Application – Full Stack with Django
 
 ## Overview  
@@ -51,8 +47,6 @@ This is a full-stack blog application built with Django, offering essential feat
 - Include search functionality for blog posts.
 
 ---
-
-Let me know if you’d like to adjust anything or add more specific features!
 
 ![image](https://github.com/user-attachments/assets/e62adbfb-fa05-41a6-b635-ff368548f707)
 ![image](https://github.com/user-attachments/assets/b6cd24a3-9f54-44d5-80f7-68bbfb55cc8d)
