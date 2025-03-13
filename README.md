@@ -14,7 +14,7 @@ This is a full-stack blog application built with Django, offering essential feat
 ## Technologies Used  
 - **Django** – Backend framework for web development.  
 - **HTML/CSS/JavaScript** – For frontend structure and styling.  
-- **SQLite** (or PostgreSQL) – Database for storing user data and blog posts.  
+- **PostregSQL** – Database for storing user data and blog posts.  
 - **Bootstrap** – For responsive design.  
 
 ## How to Run  
@@ -43,7 +43,6 @@ This is a full-stack blog application built with Django, offering essential feat
 ## Future Improvements  
 - Add user-specific blog categories and tags.  
 - Implement email notifications for new posts and comments.  
-- Add comment section for each blog post.  
 - Include search functionality for blog posts.
 
 ---
